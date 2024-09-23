@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5c28d1ce47741210465152e1d16d4347" label="MTG Cards" max_length="40" name="x_804634_sndecktra_mtg_cards" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="50" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mana cost" max_length="40" name="mana_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Card type" max_length="40" name="card_type" type="string"/>
+    </element>
+</database>
